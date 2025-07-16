@@ -713,4 +713,4 @@
 
 ### 🎯 Конец. Но на самом деле — только начало.
 
-Link to support: (Gumroad)[https://dyudyafed.gumroad.com/l/wake-up-manifesto]
+Link to support: [Gumroad](https://dyudyafed.gumroad.com/l/wake-up-manifesto)

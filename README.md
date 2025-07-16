@@ -56,4 +56,4 @@
 9. **Глава 8: Что дальше?**
     - План действия. 30-дневный вызов. Мини-практики. Таблицы. Пустые страницы для читателя.
 
-Link to support: (Gumroad)[https://dyudyafed.gumroad.com/l/wake-up-manifesto]
+Link to support: [Gumroad](https://dyudyafed.gumroad.com/l/wake-up-manifesto)

@@ -699,4 +699,4 @@ Or **never.**
 
 ###  The end. But in reality — only the beginning.
 
-Link to support: (Gumroad)[https://dyudyafed.gumroad.com/l/wake-up-manifesto]
+Link to support: [Gumroad](https://dyudyafed.gumroad.com/l/wake-up-manifesto)
