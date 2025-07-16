@@ -1,5 +1,5 @@
-* The original Russian version is available at [Wake Up Manifesto RU](https://github.com/lyarov22/wake-up-manifesto/wake-up-manifesto-ru.md)
-* The translated to English version is available at [Wake Up Manifesto EN](https://github.com/lyarov22/wake-up-manifesto/wake-up-manifesto-en.md)
+* The original Russian version is available at [Wake Up Manifesto RU](https://github.com/lyarov22/wake-up-manifesto/blob/main/wake-up-manifesto-ru.md)
+* The translated to English version is available at [Wake Up Manifesto EN](https://github.com/lyarov22/wake-up-manifesto/blob/main/wake-up-manifesto-en.md)
 
 ## Time won’t wait. Break or be broken.
 1. **Chapter 1: No one knows what to do — and that's okay**

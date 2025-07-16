@@ -1,4 +1,4 @@
-* The translated to English version is available at [Wake Up Manifesto EN](https://github.com/lyarov22/wake-up-manifesto/wake-up-manifesto-en.md)
+* The translated to English version is available at [Wake Up Manifesto EN](https://github.com/lyarov22/wake-up-manifesto/blob/main/wake-up-manifesto-en.md)
 
 ## Время не ждёт. Или разъебись, или сдохни как все
 

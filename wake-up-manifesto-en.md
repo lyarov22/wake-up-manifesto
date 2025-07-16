@@ -1,4 +1,4 @@
-* The original Russian version is available at [Wake Up Manifesto RU](https://github.com/lyarov22/wake-up-manifesto/wake-up-manifesto-ru.md)
+* The original Russian version is available at [Wake Up Manifesto RU](https://github.com/lyarov22/wake-up-manifesto/blob/main/wake-up-manifesto-ru.md)
 
 ## Time won’t wait. Break or be broken.
 
